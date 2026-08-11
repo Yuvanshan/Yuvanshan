@@ -47,7 +47,6 @@ Software Engineer, Flutter Developer, and Full-Stack Developer — currently Dir
 
 ### 📊 GitHub Stats
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Yuvanshan&show_icons=true&hide_border=true&bg_color=00000000&title_color=00A3FF&icon_color=00E5FF&text_color=E5E7EB" width="90%" /> </div>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvanshan&bg_color=00000000&color=0047FF&line=00A3FF&point=00E5FF&hide_border=true" width="90%" />
 </div>
