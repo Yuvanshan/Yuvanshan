@@ -1,18 +1,58 @@
-<h1 align="center">Hi 👋, I'm Prabakaran Yuvanshan</h1>
-<h3 align="center">A Computer Science Undergraduate at Trincomalee Campus. Passionate about programming. Seeking internship opportunities.</h3>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047FF,50:00A3FF,100:00E5FF&height=220&section=header&text=Hi,%20I'm%20Yuvanshan&fontSize=44&fontColor=FFFFFF&animation=twinkling&fontAlignY=35" width="100%"/>
+<a href="https://github.com/Yuvanshan">
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Flutter+Developer;Full-Stack+Developer+%E2%80%94+Director+at+Mahdev+Pvt+Ltd;Building+Scalable+Mobile%2C+Web+%26+ERP+Solutions" alt="Typing SVG" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Yuvanshan&color=0080ff&style=flat&label=Profile+Views" />
+</div>
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=1&color=gradient&customColorList=12" width="100%"/>
+### 👋 About Me
+Software Engineer, Flutter Developer, and Full-Stack Developer — currently Director at **Mahdev Pvt Ltd**, building scalable mobile, web, ERP, and business solutions with a focus on clean UI, real-time systems, and practical technology.
+- 🎯 **Goal:** Scalable, real-world business software — mobile, web, and ERP
+- 📍 Based in Sri Lanka
+- 🎓 BSc in Computer Science, Eastern University of Sri Lanka – Trincomalee Campus
+- 🔭 Currently building: Mahdev ERP/POS and business management platforms
+- 🌱 Expanding into the MERN stack (MongoDB, Express, React, Node) and Vue
+<br/>
+ 
+| Skill Area | Status |
+|---|---|
+| Flutter & Dart | ✅ Advanced |
+| Laravel / PHP | ✅ Advanced |
+| Python & REST APIs | ✅ Proficient |
+| Firebase / Supabase | ✅ Proficient |
+| TensorFlow / TFLite (ML) | 🟡 Applied in production |
+| MERN Stack (Node / Express / MongoDB / React) | 🟡 Expanding |
+| Vue.js | ⬜ Exploring |
+<br/>
+### 🛠️ Tech Stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=dart,flutter,js,html,css,laravel,php,python,firebase,supabase,git,github,androidstudio,xcode,vscode,tensorflow&theme=light" />
+</div>
+<br/>
+### 📌 Featured Projects
+| Project | Stack | Description |
+|---|---|---|
+| **Mahdev ERP / POS** | Flutter, Laravel, Firebase | Business management and POS solution for restaurants, hotels, shops, and SMEs — inventory, sales, expenses, reporting, offline/online sync. |
+| **Mahdev Business Management Platform** | Flutter, Laravel, Firebase | Centralized platform for managing bookings, invoices, expenses, staff, vehicles, accounts, reports, and multiple business divisions. |
+| **SWS Event Management** | Flutter, Firebase | Event management platform supporting decoration planning, event bookings, customer management, and professional event services. |
+| **Studio U1 Photography** | Flutter, Firebase | Photography management solution for bookings, albums, customer management, and creative album workflows. |
 
-- 🔭 I’m currently working on [Vegetable Quality Checking App](https://github.com/Yuvanshan/Veg-Quality-Checking-App)
-
-- 🌱 I’m currently learning **Mango DB, Express,React JS, Node JS [MERN], Vue**
-
-- 💬 Ask me about **React JS**
-
-- 📫 How to reach me **yuvanshan875@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yuvanshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvanshan" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+🔗 Mahdev: [mahdev-lk.vercel.app](https://mahdev-lk.vercel.app/)
+<br/>
+### 📊 GitHub Stats
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Yuvanshan&show_icons=true&hide_border=true&bg_color=00000000&title_color=00A3FF&icon_color=00D4FF&text_color=E5E7EB" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvanshan&layout=compact&hide_border=true&bg_color=00000000&title_color=00A3FF&text_color=E5E7EB" width="38%" />
+</div>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvanshan&bg_color=00000000&color=0080FF&line=00D4FF&point=003B73&hide_border=true" width="90%" />
+</div>
+<br/>
+### 🔗 Connect
+<div align="center">
+<a href="https://linkedin.com/in/yuvanshan"><img src="https://img.shields.io/badge/LinkedIn-0080FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Yuvanshan"><img src="https://img.shields.io/badge/GitHub-00D4FF?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://mahdev-lk.vercel.app/"><img src="https://img.shields.io/badge/Mahdev-003B73?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:00A3FF,100:0047FF&height=150&section=footer" width="100%"/>
