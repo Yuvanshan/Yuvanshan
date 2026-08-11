@@ -41,10 +41,7 @@ Software Engineer, Flutter Developer, and Full-Stack Developer — currently Dir
 🔗 Mahdev: [mahdev-lk.vercel.app](https://mahdev-lk.vercel.app/)
 <br/>
 ### 📊 GitHub Stats
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yuvanshan&show_icons=true&hide_border=true&bg_color=00000000&title_color=00A3FF&icon_color=00D4FF&text_color=E5E7EB" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvanshan&layout=compact&hide_border=true&bg_color=00000000&title_color=00A3FF&text_color=E5E7EB" width="38%" />
-</div>
+
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yuvanshan&bg_color=00000000&color=0080FF&line=00D4FF&point=003B73&hide_border=true" width="90%" />
 </div>
